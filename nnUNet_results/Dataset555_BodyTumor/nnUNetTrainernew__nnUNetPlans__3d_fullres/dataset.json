@@ -1,0 +1,16 @@
+{
+    "name": "BodyTumor",
+    "description": "Whole-body tumor segmentation",
+    "reference": " FLARE 2025 Challenge",
+    "tensorImageSize": "3D",
+    "labels": {
+        "background": 0,
+        "tumor": 1
+    },
+    "numTraining": 5022,
+    "numTest": 0,
+    "file_ending": ".nii.gz",
+    "channel_names": {
+        "0": "CT"
+    }
+}
