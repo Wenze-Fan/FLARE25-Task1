@@ -56,7 +56,7 @@ nnUNetv2_predict -d 555 -i Testimages path -o Path for saving test image results
 ```
 
 ## Results
-<img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/results.png" alt="image" width="70%"/>
+<img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/results.jpg" alt="image" width="50%"/>
 
 
 
