@@ -45,9 +45,18 @@ nnUNetv2_plan_and_preprocess -d 555 --verify_dataset_integrity
 nnUNetv2_preprocess -d 555 -c 3d_fullres
 ```
 
+## Training
+```
+nnUNetv2_train 555 3d_fullres all -tr nnUNetTrainernew
+```
 
+## Inference
+```
+nnUNetv2_predict -d 555 -i Testimages path -o Path for saving test image results -f all -tr nnUNetTrainernew -c 3d_fullres -chk checkpoint_best.pth -p nnUNetPlans
+```
 
-
+## Results
+<img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/results.png" alt="image" width="70%"/>
 
 
 
