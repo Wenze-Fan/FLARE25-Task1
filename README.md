@@ -7,7 +7,7 @@
 ### Our network.
 
 
-<img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/model1.png" alt="image" width="50%"/><img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/model2.png" alt="image" width="70%"/>
+<img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/model1.png" alt="image" width="65%"/><img src="https://github.com/Wenze-Fan/FLARE25-Task1/blob/main/img/model2.png" alt="image" width="70%"/>
 
 ## 📂 Key Files in this Repository
 Only one file you need to focus on:
